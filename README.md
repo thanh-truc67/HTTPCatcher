@@ -5,4 +5,4 @@
 # 使用方法：
 ## 打开网球->更多->重写->添加重写->文本编辑器中编辑->粘贴  
 ## 网球数据过大解决方案:打开网球->更多->高级设置->仅记录消息头(可提速减少耗电)  
-![alt ](https://raw.githubusercontent.com/guajie/HTTPCatcher/pm936/Addmethods.jpg)
+![alt ](https://github.com/guajie/HTTPCatcher/blob/pm936/Addmethods.jpg)
